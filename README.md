@@ -32,4 +32,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Conversor de Moedas é um conversor de cotação que converte um valor em Reais para Dollar online.
 
-- [Acesse o projeto finalizado, online](https://goncl.github.io/ConersoeDeMoedas/)
+- [Acesse o projeto finalizado, online](https://goncl.github.io/ConversorDeMoedas/)
