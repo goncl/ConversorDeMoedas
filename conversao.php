@@ -27,7 +27,7 @@
             //biblioteca intl (Internallezation PHP)
             echo "<p>Seus " . numfmt_format_currency($padrao, $real, "BRL") . " equivalem a " . numfmt_format_currency($padrao, $dollar, "USD") ."</p>";
         ?>
-        <button onclick="javascript:window.location.href='index.php'">&#x2B05; Voltar</button>
+        <button onclick="javascript:window.location.href='index.html'">&#x2B05; Voltar</button>
     </main>
 </body>
 </html>
