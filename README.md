@@ -2,7 +2,6 @@
 
 <p align="center">
 Programa gratuito, promovido para ensino de tecnologias WEB. <br/>
-<a href="#"</a>
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@ Programa gratuito, promovido para ensino de tecnologias WEB. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto " src=".github/preview.png" width="100%">
+  <img alt="projeto converso de moedas " src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
